@@ -1,4 +1,3 @@
-#打包用pyinstaller test.py --add-data="E:\Anaconda\envs\gesture\Lib\site-packages\mediapipe\modules;\mediapipe\modules" -F -w
 import cv2
 import autopy
 import numpy as np
