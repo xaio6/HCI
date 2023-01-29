@@ -2,6 +2,9 @@
 基于mediapipe+opencv+autopy的人机交互系统
 # 功能
 通过手势实现对电脑的操作，如鼠标左右键，键盘的上下键（可对PPT进行翻页）
+
+运行gesture_control_Win.py即可
+
 # 所需环境
 python == 3.8
 
